@@ -48,5 +48,5 @@ If you have any questions or inquiries, feel free to reach out to me:
 
 - Email: [raikwalmahi@gmail.com](mailto:raikwalmahi@gmail.com)
 - Portfolio: [www.mahiraikwal.com](https://web-portfolio-jade-eight.vercel.app/)
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sassydiagon)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mahii01/)
 ```
