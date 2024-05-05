@@ -46,7 +46,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or inquiries, feel free to reach out to me:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Portfolio: [www.example.com](https://www.example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- Email: [raikwalmahi@gmail.com](mailto:raikwalmahi@gmail.com)
+- Portfolio: [www.mahiraikwal.com](https://web-portfolio-jade-eight.vercel.app/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sassydiagon)
 ```
